@@ -70,8 +70,8 @@ JellibiButton  코드 저장소 :https://github.com/RobotNMore/JellibiButton
 JellibiAGV 2 오른쪽에는 코딩을 하는 PC 와 USB 로 연결할 수 있는 USB 포트가 하나 있으며 왼쪽 측면에는 코딩에서 사용할 수 있는 버튼과 전원을 켜고 끌 수 있는 스위치가 있습니다. 
 코딩한 결과물을 보드에 업로드 할 때에는 전원버튼을 앞쪽으로 밀어 전원을 켜둔 상태여야 합니다. 우선 JellibiAGV 2 는 전원을 켜두고 USB 케이블로 PC 와 JellibiAGV 2 를 연결합니다. 
 
-1. 아두이노 툴에서 JellibiAGV 2 의 연결을 설정합니다. 
-	보드 : Arduino Nano 
-	프로세서 : ATmega328P
-	포트 : JellibiAGV 2 와 연결된 시리얼 포트 선택 
+1. 아두이노 툴에서 JellibiAGV 2 의 연결을 설정합니다.  
+	보드 : Arduino Nano  
+	프로세서 : ATmega328P  
+	포트 : JellibiAGV 2 와 연결된 시리얼 포트 선택  
 2.  업로드를 선택하여 코드를 빌드하고 JellibiAGV 2 로 코드를 업로드합니다. 
